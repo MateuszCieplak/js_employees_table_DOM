@@ -1,6 +1,5 @@
 # Employees Table
 [Live Demo](https://mateuszcieplak.github.io/js_employees_table_DOM/)  
-![employees_table](./description/employees_table.gif)
 
 The "Employees Table" project is a task management app where users can manage a list of employees in a table format. It includes features such as sorting the table, adding new employees via a form, and editing the table cells. The task focuses on implementing interactive features using vanilla JavaScript and DOM manipulation.
 
@@ -17,5 +16,5 @@ The "Employees Table" project is a task management app where users can manage a 
 - **Inline editing**: Users can double-click on a table cell to replace the text with an input field. Changes are saved when the input loses focus or when the "Enter" key is pressed.
 
 
-Result of your code:
+Result of my code:
 ![Result](./src/images/result.png)
